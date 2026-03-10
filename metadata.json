@@ -1,0 +1,5 @@
+{
+  "name": "PiMotor Control",
+  "description": "A remote control interface for Raspberry Pi motors via Wi-Fi.",
+  "requestFramePermissions": []
+}
